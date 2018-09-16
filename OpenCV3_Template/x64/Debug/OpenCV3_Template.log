@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenCV3_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+e:\university\image analysis\c1\imageenhancement\opencv3_template\main.cpp(59): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+  OpenCV3_Template.vcxproj -> E:\University\Image Analysis\C1\ImageEnhancement\x64\Debug\ImageEnhancement.exe
+  OpenCV3_Template.vcxproj -> E:\University\Image Analysis\C1\ImageEnhancement\x64\Debug\ImageEnhancement.pdb (Full PDB)
